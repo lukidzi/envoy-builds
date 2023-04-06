@@ -1,6 +1,6 @@
 # Tools for Envoy
 
-The current directory contains tools for building Envoy binaries.
+ The current directory contains tools for building Envoy binaries.
 
 There is a new Makefile target `build/envoy` that places an `envoy` binary in `build/artifacts-$GOOS-$GOARCH/envoy` directory.
 
